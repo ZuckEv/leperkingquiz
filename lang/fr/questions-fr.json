@@ -1,0 +1,232 @@
+﻿[
+    {
+        "id":  0,
+        "title":  "Vous courez un marathon et tombez face contre terre dÃ¨s le dÃ©part. Que faites-vous?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Abandonner? Jamais!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Je laisse tomber."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Je hurle: \"FAUX DEPART!\""
+                          }
+                      ]
+    },
+    {
+        "id":  1,
+        "title":  "Vous Ãªtes au cinÃ©ma. Quel genre de film allez-vous voir?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Un film d\u0027action."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Une comÃ©die dramatique."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Un film romantique."
+                          }
+                      ]
+    },
+    {
+        "id":  2,
+        "title":  "Travaillez-vous beaucoup Ã  l\u0027Ã©cole?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Je travaille dur tous les jours."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "J\u0027Ã©tudie quand j\u0027y pense..."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Je fais le strict minimum."
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Je n\u0027y arriverai jamais..."
+                          }
+                      ]
+    },
+    {
+        "id":  3,
+        "title":  "On vous demande d\u0027accomplir une tÃ¢che difficile. Comment vous y prenez-vous?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "J\u0027assure!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Je demande de l\u0027aide."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Je dÃ©lÃ¨gue!"
+                          }
+                      ]
+    },
+    {
+        "id":  4,
+        "title":  "Etes-vous toujours sincÃ¨re quand vous prÃ©sentez vos excuses?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Bien sÃ»r."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Pas toujours."
+                          }
+                      ]
+    },
+    {
+        "id":  5,
+        "title":  "Vous vous promenez quand une Ã©quipe de tÃ©lÃ©vision vous aborde pour vous interviewer. Que faites-vous?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Je m\u0027enfuis! C\u0027est trop gÃªnant!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Je rÃ©ponds sÃ©rieusement."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Yahou! Je passe Ã  la tÃ©lÃ©!"
+                          }
+                      ]
+    },
+    {
+        "id":  6,
+        "title":  "Le bruit court qu\u0027un fantÃ´me hante les toilettes de l\u0027Ã©cole. Quelle est votre rÃ©action?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Au secours!!!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "J\u0027y vais, pour voir."
+                          }
+                      ]
+    },
+    {
+        "id":  7,
+        "title":  "Tout le monde partage un gÃ¢teau et il y a une part en rab. Que faites-vous?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Je la mange en douce."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Je la propose aux autres."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "A l\u0027attaque!"
+                          }
+                      ]
+    },
+    {
+        "id":  8,
+        "title":  "Comment Ã§a se passe chez vous, le matin?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "C\u0027est la course!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Ã‡a roule!"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Comme ci, comme Ã§a."
+                          }
+                      ]
+    },
+    {
+        "id":  9,
+        "title":  "Tout le monde rigole Ã  une blague que vous trouvez nulle. Que faites-vous?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Rien."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Je ris avec eux."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Cela dÃ©pend de la situation."
+                          }
+                      ]
+    },
+    {
+        "id":  10,
+        "title":  "Vous voulez faire une dÃ©claration d\u0027amour Ã  quelqu\u0027un! Comment vous y prenez-vous?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Je lui montre un peu en plaisantant."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Je le lui montre en faisant le pitre!"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Je le clame haut et fort!"
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Je le garde pour moi! Trop risquÃ©!"
+                          }
+                      ]
+    },
+    {
+        "id":  11,
+        "title":  "Pensez-vous avoir de bonnes habitudes de travail?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Oui."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Non."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Oui, mais juste en sport."
+                          }
+                      ]
+    },
+    {
+        "id":  12,
+        "title":  "Vous aimez les fÃªtes endiablÃ©es?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Oui!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Non!"
+                          }
+                      ]
+    }
+]

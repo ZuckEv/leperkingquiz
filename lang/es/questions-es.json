@@ -1,0 +1,232 @@
+﻿[
+    {
+        "id":  0,
+        "title":  "Imagina que participas en un maratÃ³n y en la lÃ­nea de salida te caes de cabeza. Â¿QuÃ© haces?",
+        "responses":  [
+                          {
+                              "response":  "Â¡Es pronto para rendirse!",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Dejo de correr",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Â¡Hay que repetir la salida!",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  1,
+        "title":  "Â¿QuÃ© clase de pelÃ­cula irÃ­as a ver al cine?",
+        "responses":  [
+                          {
+                              "response":  "Una de acciÃ³n",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Un drama",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Una romÃ¡ntica",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  2,
+        "title":  "Â¿QuÃ© clase de estudiante eres?",
+        "responses":  [
+                          {
+                              "response":  "De los que estudian a diario",
+                              "id":  0
+                          },
+                          {
+                              "response":  "De los que estudian si se acuerdan",
+                              "id":  1
+                          },
+                          {
+                              "response":  "De los que estudian lo justo",
+                              "id":  2
+                          },
+                          {
+                              "response":  "Voy a necesitar ayuda...",
+                              "id":  3
+                          }
+                      ]
+    },
+    {
+        "id":  3,
+        "title":  "Â¿QuÃ© haces cuando tienes una tarea complicada por delante?",
+        "responses":  [
+                          {
+                              "response":  "La hago sin rechistar",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Pido ayuda",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Que la haga otro",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  4,
+        "title":  "Â¿Te disculpas siempre de todo corazÃ³n?",
+        "responses":  [
+                          {
+                              "response":  "Por supuesto",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Hombre, nunca es fÃ¡cil",
+                              "id":  1
+                          }
+                      ]
+    },
+    {
+        "id":  5,
+        "title":  "EstÃ¡s dando un paseo y de repente te llaman para hacerte una entrevista para la televisiÃ³n. Â¿QuÃ© haces?",
+        "responses":  [
+                          {
+                              "response":  "Â¿Huyo? Â¡QuÃ© vergÃ¼enza!",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Respondo a las preguntas",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Â¡Yuju! Â¡Estoy en la tele!",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  6,
+        "title":  "Se rumorea que hay un fantasma en los servicios de la escuela. Â¿QuÃ© haces?",
+        "responses":  [
+                          {
+                              "response":  "Mejor no ir al baÃ±o",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Voy a ver quÃ© pasa",
+                              "id":  1
+                          }
+                      ]
+    },
+    {
+        "id":  7,
+        "title":  "Imagina que todos habÃ©is tomado postre y todavÃ­a queda una porciÃ³n. Â¿QuÃ© haces?",
+        "responses":  [
+                          {
+                              "response":  "A ver si no se dan cuenta...",
+                              "id":  0
+                          },
+                          {
+                              "response":  "La echamos a suertes",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Â¡Tonto el Ãºltimo!",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  8,
+        "title":  "Â¿CÃ³mo te levantas?",
+        "responses":  [
+                          {
+                              "response":  "Â¡A toda pastilla!",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Como una rosa",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Con sueÃ±o, pero bien",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  9,
+        "title":  "Imagina que todo el mundo se estÃ¡ riendo por algo que a ti te parece bastante aburrido. Â¿QuÃ© haces?",
+        "responses":  [
+                          {
+                              "response":  "Â¿QuÃ© voy a hacer?",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Les sigo el rollo",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Depende de la situaciÃ³n",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  10,
+        "title":  "Alguien te gusta un montÃ³n y se lo quieres decir. Â¿QuÃ© haces?",
+        "responses":  [
+                          {
+                              "response":  "Lo muestro haciÃ©ndole mÃ¡s caso",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Evidente, le tomo un poco el pelo",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Â¡Lo grito a los cuatro vientos!",
+                              "id":  2
+                          },
+                          {
+                              "response":  "No se lo digo. Â¡QuÃ© vergÃ¼enza!",
+                              "id":  3
+                          }
+                      ]
+    },
+    {
+        "id":  11,
+        "title":  "Â¿Estudias con regularidad?",
+        "responses":  [
+                          {
+                              "response":  "SÃ­",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Bueno...",
+                              "id":  1
+                          },
+                          {
+                              "response":  "Â¡Lo mÃ­o es el deporte!",
+                              "id":  2
+                          }
+                      ]
+    },
+    {
+        "id":  12,
+        "title":  "Â¿Te gustan las fiestas con marcha?",
+        "responses":  [
+                          {
+                              "response":  "Â¡Claro!",
+                              "id":  0
+                          },
+                          {
+                              "response":  "Paso...",
+                              "id":  1
+                          }
+                      ]
+    }
+]

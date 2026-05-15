@@ -1,0 +1,232 @@
+﻿[
+    {
+        "id":  0,
+        "title":  "Du nimmst an einem Marathon teil und fÃ¤llst beim Start der LÃ¤nge nach hin! Was tust du?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ich gebe nicht auf!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Einfach aufgeben."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Einen Neustart fordern."
+                          }
+                      ]
+    },
+    {
+        "id":  1,
+        "title":  "Du bist im Kino. Was siehst du dir an?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Einen Action-Film."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Ein Drama."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Einen Liebesfilm."
+                          }
+                      ]
+    },
+    {
+        "id":  2,
+        "title":  "Wie wÃ¼rdest du deinen Lernstil beschreiben?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ich arbeite jeden Tag hart."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Wenn ich daran denke..."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Ich mache nur das NÃ¶tigste."
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Allein schaffe ich das nicht..."
+                          }
+                      ]
+    },
+    {
+        "id":  3,
+        "title":  "Du wurdest um die Erledigung einer schwierigen Aufgabe gebeten. Was machst du?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ich erledige sie selbst."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Jemanden um Hilfe bitten."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Jemand anders beauftragen!"
+                          }
+                      ]
+    },
+    {
+        "id":  4,
+        "title":  "Meinst du es wirklich ehrlich, wenn du dich entschuldigst?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "NatÃ¼rlich!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Eher nicht."
+                          }
+                      ]
+    },
+    {
+        "id":  5,
+        "title":  "Du gehst spazieren, als dich ein Fernsehteam um ein Interview bittet. Was machst du?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Weglaufen! Wie peinlich!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Beantworte die Fragen ernsthaft."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Oh Mann! Ich im Fernsehen!!!"
+                          }
+                      ]
+    },
+    {
+        "id":  6,
+        "title":  "In den ToilettenrÃ¤umen der Schule soll ein Geist umgehen. Was tust du?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Die Toiletten meiden."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Reingehen."
+                          }
+                      ]
+    },
+    {
+        "id":  7,
+        "title":  "Alle teilen sich einen Nachtisch. Einer ist noch Ã¼brig. Was tust du?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ich erzÃ¤hle es niemandem."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Ich erzÃ¤hle es allen."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Wer zuerst kommt..."
+                          }
+                      ]
+    },
+    {
+        "id":  8,
+        "title":  "Wie sieht dein morgendlicher Ablauf aus?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ich bin immer in Eile!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Alles ist perfekt."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Eher durchwachsen."
+                          }
+                      ]
+    },
+    {
+        "id":  9,
+        "title":  "Alle um dich herum lachen herzhaft Ã¼ber etwas vÃ¶llig Langweiliges. Was machst du?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ich mache nichts."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Ich lache mit."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Das hÃ¤ngt von der Situation ab."
+                          }
+                      ]
+    },
+    {
+        "id":  10,
+        "title":  "Du mÃ¶chtest zeigen, dass du jemanden richtig gerne magst. Wie gehst du vor?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ich deute es vorsichtig an. "
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Ich lege es offen... Mit Streichen!"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Ich sage es vor allen Leuten."
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Behalte es fÃ¼r mich! Zu riskant!"
+                          }
+                      ]
+    },
+    {
+        "id":  11,
+        "title":  "Glaubst du, dass deine Lernmethoden gut sind?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ja"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Nein"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Beim Sport verliere ich nie!"
+                          }
+                      ]
+    },
+    {
+        "id":  12,
+        "title":  "Magst du ausgelassene Feiern?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ja"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Nein"
+                          }
+                      ]
+    }
+]

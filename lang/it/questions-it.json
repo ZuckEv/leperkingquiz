@@ -1,0 +1,232 @@
+﻿[
+    {
+        "id":  0,
+        "title":  "Stai per correre una maratona, ma alla partenza scivoli e sbatti la faccia per terra! Cosa fai?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Non mi arrendo!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Rinuncio."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Grido: \"RICOMINCIAMO!\""
+                          }
+                      ]
+    },
+    {
+        "id":  1,
+        "title":  "Sei al cinema. Cosa stai guardando?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Un film d\u0027azione."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Un film drammatico."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Un film romantico."
+                          }
+                      ]
+    },
+    {
+        "id":  2,
+        "title":  "Come ti organizzi nello studio?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Lavoro duro, giorno dopo giorno."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Se mi ricordassi di farlo..."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Faccio il minimo indispensabile."
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Non ce la farÃ² mai senza aiuto..."
+                          }
+                      ]
+    },
+    {
+        "id":  3,
+        "title":  "Ti Ã¨ stato chiesto di occuparti di un incarico problematico. Cosa fai?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ci penso io!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Chiedo aiuto a qualcuno."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Lo faccio fare ad altri!"
+                          }
+                      ]
+    },
+    {
+        "id":  4,
+        "title":  "Quando ti scusi, lo fai con sinceritÃ ?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Certo."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Non Ã¨ facile farlo!"
+                          }
+                      ]
+    },
+    {
+        "id":  5,
+        "title":  "Mentre stai facendo una passeggiata, un reporter ti ferma per intervistarti. Cosa fai?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Scappo! Che imbarazzo!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Rispondo alle domande."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Mitico! Sono in TV!"
+                          }
+                      ]
+    },
+    {
+        "id":  6,
+        "title":  "Dicono che i bagni della scuola siano infestati da un fantasma! Cosa fai?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Aaargh! Cha paura!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Ci vado comunque."
+                          }
+                      ]
+    },
+    {
+        "id":  7,
+        "title":  "Tu e i tuoi amici vi dividete una torta, ma ti accorgi che c\u0027Ã¨ una fetta in piÃ¹! Cosa fai?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Non dico nulla."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Lo dico agli altri."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Chi primo arriva..."
+                          }
+                      ]
+    },
+    {
+        "id":  8,
+        "title":  "Come sono le tue mattine?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Sempre di corsa!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Sempre perfette!"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Normali."
+                          }
+                      ]
+    },
+    {
+        "id":  9,
+        "title":  "Attorno a te si stanno sbellicando dalle risate per qualcosa che trovi piuttosto noioso. Cosa fai?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Niente di niente."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Rido con loro."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Dipende."
+                          }
+                      ]
+    },
+    {
+        "id":  10,
+        "title":  "Vuoi far sapere a qualcuno che ti piace un sacco! Cosa fai?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Lo dimostro giocandoci insieme."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Lo esprimo... con un bello scherzo!"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Lo urlo a tutto il mondo!"
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Non dico niente! Ãˆ troppo rischioso!"
+                          }
+                      ]
+    },
+    {
+        "id":  11,
+        "title":  "Pensi di dedicarti allo studio con dedizione?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "SÃ¬!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "In educazione fisica son forte!"
+                          }
+                      ]
+    },
+    {
+        "id":  12,
+        "title":  "Ti piacciono le feste movimentate?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "SÃ¬!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No!"
+                          }
+                      ]
+    }
+]

@@ -1,0 +1,232 @@
+﻿[
+    {
+        "id":  0,
+        "title":  "VocÃª estÃ¡ correndo uma maratona, mas bem no comeÃ§o vocÃª cai de cara no chÃ£o! O que vocÃª faz?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "NÃ£o vou desistir ainda!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Desiste."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Grita, \"COMEÃ‡A DE NOVO!\""
+                          }
+                      ]
+    },
+    {
+        "id":  1,
+        "title":  "VocÃª estÃ¡ em um cinema. O que vocÃª vai assistir?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Um filme de aÃ§Ã£o."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Um drama."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Um filme de romance."
+                          }
+                      ]
+    },
+    {
+        "id":  2,
+        "title":  "Qual o seu estilo de estudar?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Trabalhar duro, todo dia."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Se eu me lembrar..."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Eu sÃ³ reviso o que preciso."
+                          },
+                          {
+                              "id":  3,
+                              "response":  "NÃ£o consigo estudar sozinho..."
+                          }
+                      ]
+    },
+    {
+        "id":  3,
+        "title":  "Te pediram para fazer uma tarefa difÃ­cil. O que vocÃª faz?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "FaÃ§o-a sozinho."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "PeÃ§o alguÃ©m por ajuda."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "FaÃ§o alguÃ©m fazer pra mim!"
+                          }
+                      ]
+    },
+    {
+        "id":  4,
+        "title":  "VocÃª Ã© verdadeiramente sincero quando pede desculpas?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Com certeza."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Isso nÃ£o Ã© fÃ¡cil de admitir!"
+                          }
+                      ]
+    },
+    {
+        "id":  5,
+        "title":  "VocÃª estÃ¡ caminhando quando de repente uma equipe de filmagem te interrompe para uma entrevista. O que vocÃª faz?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Fujo! Que embaraÃ§oso!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Respondo Ã s perguntas apropriadamente."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "FaÃ§o a festa! Woo-hoo! Eu tÃ´ na TV!"
+                          }
+                      ]
+    },
+    {
+        "id":  6,
+        "title":  "HÃ¡ um rumor sobre um fantasma assombrando os banheiros da escola! O que vocÃª faz?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Assustador...Banheiros!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Vou lÃ¡ assim mesmo."
+                          }
+                      ]
+    },
+    {
+        "id":  7,
+        "title":  "Todos estÃ£o dividindo uma sobremesa, e tem uma fatia extra. O que vocÃª faz?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "NÃ£o fala pra ninguÃ©m."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Diz para todos."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Viu primeiro, pega primeiro!"
+                          }
+                      ]
+    },
+    {
+        "id":  8,
+        "title":  "Como sÃ£o suas manhÃ£s?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Sempre apressadas!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Sempre perfeitas."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "SÃ£o OK."
+                          }
+                      ]
+    },
+    {
+        "id":  9,
+        "title":  "Todos ao seu redor estÃ£o rindo muito de algo que vocÃª acha entediante. O que vocÃª faz?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Nada."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Rio junto."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Depende da situaÃ§Ã£o."
+                          }
+                      ]
+    },
+    {
+        "id":  10,
+        "title":  "VocÃª quer contar que gosta bastante de alguÃ©m! O que vocÃª faz?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Mostro aos poucos brincando juntos."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Deixo Ã³bvio com... uma pegadinha!"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Diz em voz alta para todos ouvirem!"
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Fico quieto! Ã‰ muito arriscado!"
+                          }
+                      ]
+    },
+    {
+        "id":  11,
+        "title":  "VocÃª acha que tem bons hÃ¡bitos estudantis?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Sim."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "NÃ£o."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Bem, eu nunca perco nos esportes!"
+                          }
+                      ]
+    },
+    {
+        "id":  12,
+        "title":  "VocÃª gosta de festas animadas?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Sim."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "NÃ£o."
+                          }
+                      ]
+    }
+]

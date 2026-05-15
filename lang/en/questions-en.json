@@ -1,0 +1,228 @@
+﻿[
+    {
+        "id":  0,
+        "title":  "You\u0027re at a market, and you see a frail person steal a loaf of bread. What will you do?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Report them to the local authorities. Stealing is wrong!"
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Mind your own business. It\u0027s not your problem."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Confront the person and ask them why they\u0027re stealing. Maybe they have a good reason."
+                          }
+                      ]
+    },
+    {
+        "id":  1,
+        "title":  "You\u0027re walking along the road, and you see someone drop their wallet. What will you do?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Pick it up and return it to the owner."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Pick it up and keep it for yourself. Finders keepers!"
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Leave it on the ground, you are busy and don\u0027t have time to deal with it."
+                          }
+                      ]
+    },
+    {
+        "id":  2,
+        "title":  "You come across a woman being harassed by a group of people. What will you do?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Ignore them, it\u0027s not your problem."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Try to intervene and help the woman, even if it means putting yourself in danger."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Scare off the harassers by yelling at them, and then rob the woman yourself."
+                          },
+                          {
+                              "id":  3,
+                              "response":  "Find a guard and report the incident, but do not get involved directly."
+                          }
+                      ]
+    },
+    {
+        "id":  3,
+        "title":  "You\u0027ve been asked to do a difficult and life threatening quest. What will you do?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Do it myself."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Ask someone to help."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Make someone else do it and take the credit."
+                          }
+                      ]
+    },
+    {
+        "id":  4,
+        "title":  "Are you truly sincere when you apologize?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Of course."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "That\u0027s not easy to admit!"
+                          }
+                      ]
+    },
+    {
+        "id":  5,
+        "title":  "You find out your best friend committed a serious crime ten years ago. Nobody was hurt. Do you turn them in?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Yes."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "If there is reward money, I might consider it."
+                          }
+                      ]
+    },
+    {
+        "id":  6,
+        "title":  "Your friend is planning a robbery and wants you to be their distraction. What do you do?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Join my friend and be their distraction."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "Report them to the local authorities."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "Refuse to be involved, but don\u0027t report them."
+                          }
+                      ]
+    },
+    {
+        "id":  7,
+        "title":  "Do you support the death penalty?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Yes."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "It depends on the crime and the circumstances."
+                          }
+                      ]
+    },
+    {
+        "id":  8,
+        "title":  "You can save yourself from a burning building, but it means pushing past someone slower. Do you?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Yes."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No."
+                          }
+                      ]
+    },
+    {
+        "id":  9,
+        "title":  "Which life has more value, an adult human who has lived an honorable life, or a newborn baby who has just started their life?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "The adult."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "The baby."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "I\u0027m not sure."
+                          }
+                      ]
+    },
+    {
+        "id":  10,
+        "title":  "If your personality, memories, and values were transferred into a new body, is that still you?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Yes."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "I\u0027m not sure."
+                          }
+                      ]
+    },
+    {
+        "id":  11,
+        "title":  "Do you think you are a good person?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Yes."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No."
+                          },
+                          {
+                              "id":  2,
+                              "response":  "It depends on who\u0027s asking."
+                          }
+                      ]
+    },
+    {
+        "id":  12,
+        "title":  "Should people be allowed to choose when they die?",
+        "responses":  [
+                          {
+                              "id":  0,
+                              "response":  "Yes."
+                          },
+                          {
+                              "id":  1,
+                              "response":  "No."
+                          }
+                      ]
+    }
+]
